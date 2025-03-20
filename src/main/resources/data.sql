@@ -1,0 +1,4 @@
+INSERT INTO COUNTRY VALUES('31a5c0ea-03e9-407f-a0ae-70a1b040a678', 'South Africa', 50000000, 'Pretoria', 'https://cdn.britannica.com/27/4227-050-00DBD10A/Flag-South-Africa.jpg');
+INSERT INTO COUNTRY VALUES('2d94994e-a84f-4525-9981-1705ba9451b4', 'United Kingdom', 200000000, 'London', 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg');
+INSERT INTO COUNTRY VALUES('96f77bee-d2c0-4473-ac75-a217cd3ed905', 'France', 6000000, 'Paris', 'https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png');
+INSERT INTO COUNTRY VALUES('15679b9e-d799-438f-854c-6cf6a3e743a3', 'United States of America', 200000000, 'Washington DC', 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/1200px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png');
