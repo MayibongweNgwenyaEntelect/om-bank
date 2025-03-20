@@ -1,0 +1,14 @@
+.country {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 10px;
+  justify-content: center;
+  justify-items: center;
+  align-content: center;
+  align-items: center;
+
+  &__flag {
+    width: 150px;
+    height: 100px;
+  }
+}

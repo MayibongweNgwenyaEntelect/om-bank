@@ -1,0 +1,7 @@
+<section class="country">
+  @for(country of countries$ | async; track country.name) {
+  <a [routerLink]="['details', country.name]">
+    <img [src]="country.flag" class="country__flag" />
+  </a>
+  }
+</section>
